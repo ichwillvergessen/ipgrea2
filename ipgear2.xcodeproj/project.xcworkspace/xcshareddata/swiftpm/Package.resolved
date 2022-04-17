@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "swift-public-ip",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/HackingGate/Swift-Public-IP.git",
+      "state" : {
+        "branch" : "master",
+        "revision" : "046079f891de67de00a4bba2e636d0a74a0c074f"
+      }
+    }
+  ],
+  "version" : 2
+}
